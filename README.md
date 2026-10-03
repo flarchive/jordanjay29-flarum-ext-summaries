@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of jordanjay29/flarum-ext-summaries.** Not for installation: use [Packagist](https://packagist.org/packages/jordanjay29/flarum-ext-summaries) or the [upstream repository](https://github.com/jordanjay29/flarum-ext-summaries).
 
-**0** versions archived · Latest: [`0.3.2`](https://github.com/flarchive/jordanjay29-flarum-ext-summaries/tree/archive/v0.3.2) · License: `MIT` · Flarum: `>=0.1.0-beta.14 <0.1.0-beta.16`
+**5** versions archived · Latest: [`0.3.2`](https://github.com/flarchive/jordanjay29-flarum-ext-summaries/tree/archive/v0.3.2) · License: `MIT` · Flarum: `>=0.1.0-beta.14 <0.1.0-beta.16`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2016-02-26 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/jordanjay29-flarum-ext-summaries/tree/archive/v0.1.0) |
+| `0.2.0` | 2016-03-10 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/jordanjay29-flarum-ext-summaries/tree/archive/v0.2.0) |
+| `0.3.0` | 2019-01-28 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/jordanjay29-flarum-ext-summaries/tree/archive/v0.3.0) |
+| `0.3.1` | 2019-01-30 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/jordanjay29-flarum-ext-summaries/tree/archive/v0.3.1) |
+| `0.3.2` | 2020-12-25 | `>=0.1.0-beta.14 <0.1.0-beta.16` | [Browse](https://github.com/flarchive/jordanjay29-flarum-ext-summaries/tree/archive/v0.3.2) |
 
 Catalog entry: [packages/jordanjay29-flarum-ext-summaries.json](https://github.com/flarchive/archive-index/blob/main/packages/jordanjay29-flarum-ext-summaries.json)
 
